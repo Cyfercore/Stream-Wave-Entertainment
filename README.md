@@ -22,9 +22,16 @@ Key obstacles addressed:
   **1 engagement-to-churn ratio**
 
 ## Project Objective
-To deliver a strategic, data-driven framework that helps StreamWave optimize 
-content investment, reduce churn, improve recommendations, and strengthen 
-its competitive position.
+To solve StreamWave's content investment challenge, I:
+
+- Imported and cleaned raw data across **999 users** and their 
+  viewing activity using Power Query
+- Built pivot tables to calculate KPIs such as completion rates, 
+  repeat viewership, and churn correlations
+- Analysed genre engagement patterns across **9 content genres**
+- Ranked all genres by engagement, retention, and repeat viewership
+- Delivered an interactive executive dashboard to guide content 
+  investment decisions for stakeholders
 
 ## Tools Used
 | Tool | Purpose |
