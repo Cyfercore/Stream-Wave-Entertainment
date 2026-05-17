@@ -7,15 +7,19 @@ retention patterns, and content performance across genres.
 ![Dashboard](dashboardpreview.png)
 
 ## Business Challenge
-StreamWave operates in an increasingly competitive streaming market. Despite 
-a massive content library, executives face pressure to allocate budgets to 
-genres that truly drive engagement, retention, and subscriber growth.
+StreamWave operates in an increasingly competitive streaming market. 
+Despite a library of **9 content genres** served to **999 users**, 
+executives face pressure to allocate budgets to genres that truly 
+drive engagement, retention, and subscriber growth.
 
 Key obstacles addressed:
-- Fragmented viewership across dozens of genres
+- Fragmented viewership with **Drama dominating at 33%** vs 
+  **Biography at just 0.08%**
 - Rising content production and licensing costs
-- Subscriber churn due to poor content recommendations
-- Competitive pressure from niche streaming rivals
+- Subscriber churn due to poor content recommendations, with 
+  **cancellations peaking at 18 in a single month**
+- Competitive pressure from niche streaming rivals with only 
+  **1 engagement-to-churn ratio**
 
 ## Project Objective
 To deliver a strategic, data-driven framework that helps StreamWave optimize 
