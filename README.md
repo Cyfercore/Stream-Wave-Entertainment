@@ -1,8 +1,7 @@
 # Stream-Wave-Entertainment 🎬
 
-A data analytics project developed as part of the Amdari internship program, 
-examining Stream Wave Entertainment's viewer engagement, retention patterns, 
-and content performance across genres.
+A data analytics project examining Stream Wave Entertainment's viewer engagement,
+retention patterns, and content performance across genres.
 
 ## Dashboard Preview
 ![Dashboard](dashboardpreview.png)
